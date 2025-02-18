@@ -1,0 +1,368 @@
+{
+  "faqs": [
+    {
+      "question": "Where are your hostels located?",
+      "answer": "We have hostels in several cities; you can find the exact location of each one on our website."
+    },
+    {
+      "question": "What types of rooms do you offer?",
+      "answer": "We offer a variety of rooms, from private rooms to shared dormitories. You can find more information on our website."
+    },
+    {
+      "question": "What are the check-in and check-out times?",
+      "answer": "Check-in starts at 12:00, and check-out is at 11:00. If you need to check in earlier or later, please contact us so we can make the necessary arrangements. (Also available via WhatsApp)"
+    },
+    {
+      "question": "Do you offer transportation to and from the airport?",
+      "answer": "Some of our hostels offer an airport shuttle service for an additional fee. Please contact us for more information. (+34 628991703 on WhatsApp as well)"
+    },
+    {
+      "question": "Is there internet access?",
+      "answer": "Yes, all our hostels provide free internet access for our guests."
+    },
+    {
+      "question": "Do you allow pets?",
+      "answer": "I’m sorry, but we do not allow pets in our hostels."
+    },
+    {
+      "question": "Are towels included in the room price?",
+      "answer": "Yes, we provide free towels for guests in private rooms. For shared dorm rooms, towels are available as a paid extra service."
+    },
+    {
+      "question": "Do you offer breakfast?",
+      "answer": "We currently do not include breakfast in the price, but as a courtesy to start your morning with a smile, we provide instant coffee, powdered milk, various teas, and muffins!"
+    },
+    {
+      "question": "What time is breakfast served?",
+      "answer": "Breakfast hours vary by hostel but are generally from 8:00 to 10:30, or 8:30 to 11:00 at Arena Nest."
+    },
+    {
+      "question": "Can I cook in the hostel’s kitchen?",
+      "answer": "Yes, all our hostels have a shared kitchen for guest use."
+    },
+    {
+      "question": "Do you offer laundry services?",
+      "answer": "Yes, we offer laundry service for an additional fee."
+    },
+    {
+      "question": "Is there parking available?",
+      "answer": "Some of our hostels offer free or paid parking. Please contact us for more information."
+    },
+    {
+      "question": "Can I store my luggage after check-out?",
+      "answer": "Yes, we provide luggage storage services for our guests."
+    },
+    {
+      "question": "Do you offer tours or activities in the city?",
+      "answer": "Yes, we offer tours and activities in the city for an additional charge. Please contact us for more information."
+    },
+    {
+      "question": "Can I book a room without a credit card?",
+      "answer": "I’m sorry, but we require a valid credit card to confirm all bookings."
+    },
+    {
+      "question": "Do you offer discounts for extended stays?",
+      "answer": "Yes. We have a rate called “Nest Pass” that applies for a week or a month with a discount of more than 30%. You can book it through the website as long as you select seven days or more. Please contact us for more information. (+34 628991703 on WhatsApp)"
+    },
+    {
+      "question": "Is there a minimum age to stay at your hostels?",
+      "answer": "Yes, the minimum age to stay in our hostels is 18 years old."
+    },
+    {
+      "question": "Can I cancel my reservation?",
+      "answer": "Yes, you can."
+    },
+    {
+      "question": "What is the cancellation policy?",
+      "answer": "Our cancellation policy varies depending on the rate and type of room booked. Generally, you can cancel or change up to 48 hours before the booked date."
+    },
+    {
+      "question": "Is there a deadline to cancel my reservation?",
+      "answer": "Yes, you can usually cancel or change your reservation up to 48 hours before the booked date without additional charges."
+    },
+    {
+      "question": "Can I change my reservation?",
+      "answer": "Yes, you can change your reservation depending on availability and the policy for the rate you booked. Generally, changes can be made up to 48 hours before the booked date."
+    },
+    {
+      "question": "Can I add an extra night to my stay?",
+      "answer": "Yes, you can add an extra night depending on room availability. Please contact us to make the necessary arrangements."
+    },
+    {
+      "question": "Can I pay in cash?",
+      "answer": "Yes, we accept cash payments. Please contact us for more information about our payment options."
+    },
+    {
+      "question": "Can I pay with a debit card?",
+      "answer": "Yes, we accept debit cards. Please contact us for more information about our payment options."
+    },
+    {
+      "question": "Can I make a reservation for someone else?",
+      "answer": "Yes, you can make a reservation for another person. Please ensure you provide all the necessary information for the guest."
+    },
+    {
+      "question": "Do you offer rooms with a private bathroom?",
+      "answer": "Yes, we offer rooms with a private bathroom for an additional fee. Please check our website for more information."
+    },
+    {
+      "question": "What is the noise policy in the hostel?",
+      "answer": "We ask our guests to respect everyone's rest and avoid making noise after 11 p.m. In case of problems, please contact the reception."
+    },
+    {
+      "question": "Do you have accessibility for people with disabilities?",
+      "answer": "Some of our hostels have facilities for people with disabilities. Please contact us for more information. (Also via WhatsApp)"
+    },
+    {
+      "question": "Do you offer daily cleaning services?",
+      "answer": "Yes, we offer daily cleaning services in our rooms and common areas."
+    },
+    {
+      "question": "Can I smoke in the hostel?",
+      "answer": "We do not allow smoking inside our hostels. There is a designated smoking area outside the hostel."
+    },
+    {
+      "question": "Do you have any safety rules?",
+      "answer": "Yes, we have safety rules to ensure everyone’s security. Please review the information in your room and in the common areas."
+    },
+    {
+      "question": "Do you offer currency exchange services?",
+      "answer": "We do not offer currency exchange services. Please visit a nearby bank or currency exchange office for assistance."
+    },
+    {
+      "question": "What is the minimum length of stay?",
+      "answer": "The minimum length of stay varies depending on the time of year and the hostel. Please check your reservation's terms and conditions for more information."
+    },
+    {
+      "question": "Can I leave my luggage in the hostel after check-out?",
+      "answer": "Yes, we provide free luggage storage for our guests after check-out. Please contact the reception."
+    },
+    {
+      "question": "Do you offer breakfast?",
+      "answer": "Yes, we offer breakfast in all our hostels from 8:00 to 10:30. Please check our website for more information."
+    },
+    {
+      "question": "Is there a minimum age to make a reservation?",
+      "answer": "Yes, guests must be at least 18 years old to make a reservation. If you have any issues, please contact us."
+    },
+    {
+      "question": "Can I bring my pet?",
+      "answer": "Unfortunately, we do not allow pets in our hostels."
+    },
+    {
+      "question": "Can I cook at the hostel?",
+      "answer": "Yes, we have a shared kitchen for our guests. Please make sure to clean up after using the kitchen."
+    },
+    {
+      "question": "Do you offer laundry services?",
+      "answer": "Yes, we offer laundry services for an additional fee. Please contact us for more information."
+    },
+    {
+      "question": "Is there a cut-off time for check-in?",
+      "answer": "Yes, the latest check-in time is at 11 p.m. Please contact us if you think you will arrive later. (Also via WhatsApp)"
+    },
+    {
+      "question": "Do you have parking?",
+      "answer": "We do not offer parking at our hostels. Please check our website for nearby parking information."
+    },
+    {
+      "question": "Can I reserve a room with a double bed?",
+      "answer": "Yes, we offer double-bed rooms at Duque Nest, Puerto Nest, Arena Nest, and Aguere Nest. Please check our website for details."
+    },
+    {
+      "question": "Can I book a smoking room?",
+      "answer": "We do not allow smoking in our hostels. All our rooms are non-smoking."
+    },
+    {
+      "question": "Is there a deadline for check-out?",
+      "answer": "Yes, the check-out deadline is 11 a.m. Please review your reservation’s terms and conditions for details."
+    },
+    {
+      "question": "Can I reserve a private room?",
+      "answer": "Yes, we offer private rooms for an additional fee. Please check our website for more information."
+    },
+    {
+      "question": "Can I pay for my reservation online?",
+      "answer": "Yes, we offer the option to pay online via PayPal, Bizum, or Revolut."
+    },
+    {
+      "question": "What is your hostel’s security policy?",
+      "answer": "We have a security policy to ensure all guests’ safety. We also have 24-hour video surveillance in the common areas of all our hostels."
+    },
+    {
+      "question": "Can I bring my friends to the hostel?",
+      "answer": "Yes, you can bring your friends as long as they respect the hostel’s rules and do not disturb other guests. Always ask first at reception."
+    },
+    {
+      "question": "Do you offer city tours?",
+      "answer": "Yes, we offer city tours and other activities for our guests. Please check our website for more information."
+    },
+    {
+      "question": "Can I book a room for a meeting or event?",
+      "answer": "Unfortunately, we do not offer facilities for meetings or events in our hostels."
+    },
+    {
+      "question": "Do you provide transportation to the airport?",
+      "answer": "Yes, we offer airport transportation for an additional fee. Please contact us for more information. (Also via WhatsApp)"
+    },
+    {
+      "question": "Can I make a group reservation?",
+      "answer": "Yes, we can accommodate group reservations. Please contact us for more information. (Also via WhatsApp)"
+    },
+    {
+      "question": "Can I book a room with a private bathroom?",
+      "answer": "Yes, we offer rooms with a private bathroom for an additional fee. Please check our website for more information."
+    },
+    {
+      "question": "Can I book a room with bunk beds?",
+      "answer": "Yes, we offer rooms with bunk beds. Please check our website for more information."
+    },
+    {
+      "question": "Do you have a cancellation policy?",
+      "answer": "Yes, we have a cancellation policy. Please review your reservation’s terms and conditions for more information."
+    },
+    {
+      "question": "How can I modify my reservation?",
+      "answer": "Please contact us to modify your reservation. Additional charges may apply. (Also via WhatsApp)"
+    },
+    {
+      "question": "Can I make a reservation without a credit card?",
+      "answer": "Unfortunately, we cannot accept reservations without a valid credit card."
+    },
+    {
+      "question": "Can I smoke on the balcony?",
+      "answer": "We do not allow smoking in any area of the hostel, including balconies."
+    },
+    {
+      "question": "Can I make a reservation for a shared dorm room?",
+      "answer": "Yes, we offer shared dormitory rooms. Please check our website for more information."
+    },
+    {
+      "question": "Can I make a reservation for a long-term stay?",
+      "answer": "Yes, we can accommodate extended stays. Please contact us for more information."
+    },
+    {
+      "question": "Is there a laundry service in the hostel?",
+      "answer": "Yes, we offer laundry service for an additional fee. Please ask at reception for more information."
+    },
+    {
+      "question": "Does the hostel provide breakfast?",
+      "answer": "Yes, we offer breakfast service, and it is always included."
+    },
+    {
+      "question": "Can I leave my luggage before check-in or after check-out?",
+      "answer": "Yes, we offer luggage storage before check-in or after check-out. Always ask first at reception or contact us via WhatsApp."
+    },
+    {
+      "question": "Is there parking available at the hostel?",
+      "answer": "Unfortunately, we do not offer parking in our hostels."
+    },
+    {
+      "question": "Does the hostel have free Wi-Fi?",
+      "answer": "Yes, we provide free Wi-Fi in all our common areas and rooms."
+    },
+    {
+      "question": "Do you accept pets in the hostel?",
+      "answer": "Unfortunately, we do not allow pets in our hostels."
+    },
+    {
+      "question": "Does the hostel have a guest kitchen?",
+      "answer": "Yes, we have a shared kitchen for our guests."
+    },
+    {
+      "question": "Are towels available in the hostel?",
+      "answer": "Yes, we provide clean towels for our guests as a separate paid service for dorm rooms or free for private rooms."
+    },
+    {
+      "question": "Can I order room service?",
+      "answer": "Unfortunately, we do not offer room service in our hostels."
+    },
+    {
+      "question": "Is there a no-party policy in the hostel?",
+      "answer": "Yes, we have a no-party policy to ensure the comfort and safety of all our guests. However, we often organize themed nights or group games ourselves."
+    },
+    {
+      "question": "Is there airport transportation service from north to south, or vice versa?",
+      "answer": "Yes, we offer transportation from the north airport to the south airport or vice versa. It costs €55 to reserve. (Also via WhatsApp)"
+    },
+    {
+      "question": "Can I smoke in the hostel?",
+      "answer": "We do not allow smoking in any of our facilities. We have designated outdoor areas for smokers."
+    },
+    {
+      "question": "Is there any type of entertainment in the hostel?",
+      "answer": "Yes, we organize social events and activities for our guests on special occasions. Please check our website for more information."
+    },
+    {
+      "question": "Can I book a room with a private bathroom?",
+      "answer": "Yes, we offer rooms with private bathrooms for an additional fee. Please check our website for more information."
+    },
+    {
+      "question": "Does the hostel offer currency exchange services?",
+      "answer": "We do not offer currency exchange in our hostels, but we can provide information on where to do so in the city."
+    },
+    {
+      "question": "Does the hostel have disabled access?",
+      "answer": "Yes, we have accessible rooms and common areas for disabled guests. Please contact us for more information. (Also via WhatsApp)"
+    },
+    {
+      "question": "Does the hostel have 24-hour security service?",
+      "answer": "Yes, we have staff available 24 hours a day for your comfort and security, and we have 24-hour video surveillance in the common areas of all our hostels."
+    },
+    {
+      "question": "Can I make a reservation by phone or email?",
+      "answer": "Yes, you can reserve by phone or email. Please check our website for more information. We accept PayPal, Bizum, Revolut, etc. (+34 628991703 also on WhatsApp)"
+    },
+    {
+      "question": "Do you offer any discount for longer stays?",
+      "answer": "Yes, we offer discounts for extended stays. Please contact us for more information."
+    },
+    {
+      "question": "Can I cancel my reservation?",
+      "answer": "Yes, you can cancel your reservation following our cancellation policy. Please check our website for more details."
+    },
+    {
+      "question": "Is there a laundry service available at the hostel?",
+      "answer": "Yes, we offer laundry service for an additional fee. Please ask at reception."
+    },
+    {
+      "question": "Does the hostel offer transportation to other cities?",
+      "answer": "We do not offer transportation to other cities, but we can provide information on local transport options. Please ask at reception."
+    },
+    {
+      "question": "Does the hostel have luggage storage service?",
+      "answer": "Yes, we have a luggage storage service for our guests. Please ask at reception."
+    },
+    {
+      "question": "Is there any age restriction to stay at the hostel?",
+      "answer": "Yes, you must be at least 18 years old to stay in our hostels."
+    },
+    {
+      "question": "Can I pay for my stay at the hostel with a credit card?",
+      "answer": "Yes, we accept credit cards to pay for your stay."
+    },
+    {
+      "question": "Does the hostel offer breakfast service?",
+      "answer": "Yes, we always include breakfast service."
+    },
+    {
+      "question": "Does the hostel have room service?",
+      "answer": "No, we do not offer room service in our hostels."
+    },
+    {
+      "question": "Can I cook in the hostel?",
+      "answer": "Yes, we have a communal kitchen for our guests to use."
+    },
+    {
+      "question": "Does the hostel have a no-refund policy?",
+      "answer": "Yes, in certain cases we have a no-refund policy. Please review our cancellation policy on our website."
+    },
+    {
+      "question": "Are pets allowed in the hostel?",
+      "answer": "We do not allow pets in our hostels, except in special cases. Please contact us for more information. (Also via WhatsApp)"
+    },
+    {
+      "question": "Is there safety locker available under the bed?",
+      "answer": "Under each bed, there is a drawer assigned to each person, which can be locked with a padlock. However, the padlock is the guest’s responsibility or can be purchased at reception in some cases, but it is not included."
+    }
+  ]
+}
