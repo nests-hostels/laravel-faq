@@ -4,8 +4,8 @@ import {Head, Link} from '@inertiajs/react';
 import UpdateInformationForm from './Partials/UpdateInformationForm';
 
 export default function Edit({
-    faq,
-}: PageProps<{ faq?: object }>) {
+    faqs,
+}: PageProps<{ faqs?: array }>) {
     return (
         <AuthenticatedLayout
             header={
@@ -16,24 +16,22 @@ export default function Edit({
         >
             <Head title="Faq" />
 
-            <div className="py-12 flex justify-center items-center">
-                <div>
-                    <Link href={route('faq.edit', faq.id - 1 > 0 ? faq.id - 1 : 1)}>
-                        Prev.
-                    </Link>
-                </div>
-                <div className="w-5xl space-y-6 sm:px-6 lg:px-8">
+            <div className="py-12 flex">
+
+                <div className="max-w-5xl mx-auto space-y-6 sm:px-6 lg:px-8">
                     <div className="bg-white p-4 shadow sm:rounded-lg sm:p-8 dark:bg-gray-800">
-                        <UpdateInformationForm
-                            faq={faq}
-                        />
+                        <ul>
+                            {faqs.map(faq => (<li className="border rounded-md border-indigo-400 my-4 p-4 dark:text-white">
+                                <Link href={route('faq.edit', faq.id)}>
+                                    <h3 className="text-2xl">{faq.question}</h3>
+
+                                    <h4 className="text-md">{faq.answer}</h4>
+                                </Link>
+                            </li>))}
+                        </ul>
                     </div>
                 </div>
-                <div>
-                    <Link href={route('faq.edit', faq.id + 1)}>
-                        Next.
-                    </Link>
-                </div>
+
             </div>
         </AuthenticatedLayout>
     );

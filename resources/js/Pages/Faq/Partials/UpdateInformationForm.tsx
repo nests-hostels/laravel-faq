@@ -71,7 +71,7 @@ export default function UpdateProfileInformation({
                     <InputError className="mt-2" message={errors.answer} />
                 </div>
 
-                <div className="flex items-center gap-4">
+                <div className="flex items-center justify-end gap-4">
                     <PrimaryButton disabled={processing}>Save</PrimaryButton>
 
                     <Transition

@@ -19,7 +19,9 @@ class FaqController extends Controller
     {
         $faqs = Faq::all();
 
-        dd($faqs);
+        return Inertia::render('Faq/Index', [
+            'faqs' => $faqs,
+        ]);
     }
 
     /**
