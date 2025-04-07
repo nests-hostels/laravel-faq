@@ -6,12 +6,13 @@ import TextInput from '@/Components/TextInput';
 import { Transition } from '@headlessui/react';
 import { Link, useForm, usePage } from '@inertiajs/react';
 import { FormEventHandler } from 'react';
+import { Faq } from '@/types/faq'; // Import the Faq interface from the shared types file
 
 export default function UpdateProfileInformation({
     faq,
     className
 }: {
-    faq?: object;
+    faq: Faq;
     className?: string;
 }) {
     const { data, setData, patch, errors, processing, recentlySuccessful } =

@@ -1,11 +1,12 @@
 import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout';
 import { PageProps } from '@/types';
-import {Head, Link} from '@inertiajs/react';
+import { Head, Link } from '@inertiajs/react';
 import UpdateInformationForm from './Partials/UpdateInformationForm';
+import { Faq } from '@/types/faq'; // Import the Faq interface from the shared types file
 
 export default function Edit({
     faqs,
-}: PageProps<{ faqs?: array }>) {
+}: PageProps<{ faqs: Faq[] }>) {
     return (
         <AuthenticatedLayout
             header={

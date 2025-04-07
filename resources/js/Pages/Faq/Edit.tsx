@@ -1,11 +1,12 @@
 import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout';
 import { PageProps } from '@/types';
-import {Head, Link} from '@inertiajs/react';
+import { Head, Link } from '@inertiajs/react';
 import UpdateInformationForm from './Partials/UpdateInformationForm';
+import { Faq } from '@/types/faq'; // Import the Faq interface from the shared types file
 
 export default function Edit({
     faq,
-}: PageProps<{ faq?: object }>) {
+}: PageProps<{ faq: Faq }>) {
     return (
         <AuthenticatedLayout
             header={
@@ -15,24 +16,25 @@ export default function Edit({
             }
         >
             <Head title="Faq" />
-
             <div className="py-12 flex justify-center items-center">
                 <div>
-                    <Link href={route('faq.edit', faq.id - 1 > 0 ? faq.id - 1 : 1)}>
-                        Prev.
-                    </Link>
+                    {faq && (
+                        <Link href={route('faq.edit', faq.id - 1 > 0 ? faq.id - 1 : 1)}>
+                            Prev.
+                        </Link>
+                    )}
                 </div>
                 <div className="w-5xl space-y-6 sm:px-6 lg:px-8">
                     <div className="bg-white p-4 shadow sm:rounded-lg sm:p-8 dark:bg-gray-800">
-                        <UpdateInformationForm
-                            faq={faq}
-                        />
+                        {faq && <UpdateInformationForm faq={faq} />}
                     </div>
                 </div>
                 <div>
-                    <Link href={route('faq.edit', faq.id + 1)}>
-                        Next.
-                    </Link>
+                    {faq && (
+                        <Link href={route('faq.edit', faq.id + 1)}>
+                            Next.
+                        </Link>
+                    )}
                 </div>
             </div>
         </AuthenticatedLayout>
