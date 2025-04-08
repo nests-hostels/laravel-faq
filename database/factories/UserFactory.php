@@ -23,13 +23,28 @@ class UserFactory extends Factory
      */
     public function definition(): array
     {
-        return [
-            'name' => fake()->name(),
-            'email' => fake()->unique()->safeEmail(),
-            'email_verified_at' => now(),
-            'password' => static::$password ??= Hash::make('password'),
-            'remember_token' => Str::random(10),
-        ];
+        if (function_exists('fake')) {
+            $_user = [
+                'name' => fake()->name(),
+                'email' => fake()->unique()->safeEmail(),
+                'email_verified_at' => now(),
+                'password' => static::$password ??= Hash::make('password'),
+                'remember_token' => Str::random(10),
+            ];
+        } else {
+            // Fallback for environments where fake() isn't available
+            $_random = substr(md5(mt_rand()), 0, 8);
+
+            $_user = [
+                'name' => 'User ' . $_random,
+                'email' => 'user_' . $_random . '@example.com',
+                'email_verified_at' => now(),
+                'password' => static::$password ??= Hash::make('password'),
+                'remember_token' => Str::random(10),
+            ];
+        }
+
+        return $_user;
     }
 
     /**
@@ -37,7 +52,7 @@ class UserFactory extends Factory
      */
     public function unverified(): static
     {
-        return $this->state(fn (array $attributes) => [
+        return $this->state(fn(array $attributes) => [
             'email_verified_at' => null,
         ]);
     }
